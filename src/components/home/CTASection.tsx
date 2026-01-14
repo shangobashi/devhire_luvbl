@@ -41,7 +41,7 @@ export function CTASection() {
                 size="lg"
                 variant="outline"
                 onClick={() => navigate("/jobs")}
-                className="h-14 px-8 border-white/30 text-white hover:bg-white/10 font-semibold text-base"
+                className="h-14 px-8 border-white/40 text-white bg-white/10 hover:bg-white/20 font-semibold text-base"
               >
                 Browse Jobs
               </Button>
